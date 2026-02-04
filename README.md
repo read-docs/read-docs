@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Tymek 👋
 
-<!--
-**read-docs/read-docs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at Niepubliczne Technikum Programistyczne TechniSchools (Lublin).  
+Interested in low-level programming and performance-oriented software.  
+Fast learner, eager to explore new concepts.
 
-Here are some ideas to get you started:
+**🛠 Languages**
+  
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Fun fact: Started programming at 12 (currently 16).
+
+**🔍 Current focus**
+- Assembly language
+- Understanding how systems work at the lowest level
+
+**📚 Other interests**
+- Mathematics
+- Philosophy
+
+**📫 Contact**
+- [LinkedIn](https://www.linkedin.com/in/tymoteusz-mosiolek/)
+- [Email](mailto:mosiolektymoteusz@gmail.com)
