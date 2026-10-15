@@ -18,7 +18,7 @@ embedded projects in Rust.
 ![Go](https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
 
-**Interests:** low-level systems, performance, mathematics, philosophy.
+**Interests:** low-level systems, performance, mathematics, philosophy. \
 Programming since age 12. Student at TechniSchools, Lublin.
 
 [LinkedIn](https://www.linkedin.com/in/tmosiolek/) · [Email](mailto:mosiolektymoteusz@gmail.com) · [Site](https://tmosiolek.dev)
